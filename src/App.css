@@ -1,0 +1,33 @@
+.loginError{
+  border: solid 1px #d64242;
+  padding: 3px 10px;
+  border-radius: 5px;
+  background-color:#d64242;
+  
+}
+.loginError p{
+  font-size: 12px;
+  color: #fff;
+}
+.emptyNumber{
+  border: solid 1px #d64242;
+  padding: 3px 10px;
+  border-radius: 5px;
+  background-color:#d64242;
+}
+
+.emptyNumber p{
+  font-size: 12px;
+  color: #fff;
+}
+.successFullySignUp{
+  border: solid 1px #52c234;
+  padding: 3px 10px;
+  border-radius: 5px;
+  background-color:#52c234;
+
+}
+.successFullySignUp p {
+  font-size: 12px;
+  color: #fff;
+}
